@@ -52,7 +52,7 @@ Creating an IDEA project
 ---------------------------
 Just open the project directory with Intelli IDEA and it should auto-detect the project settings. 
 
-Alternativly Type:
+Alternatively Type:
 
     ./gradlew cleanIdea idea
 
